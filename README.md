@@ -1,4 +1,7 @@
-# Website
+# Portfolio Website
+
+# THIS IS AN OLD VERSION, THE LATEST IS AT: https://github.com/seannkelleyy/Portfolio
+
 This is the source code to my old personal website. It is a very basic HTML and CSS
 project, that didn't use source control when created. 
 
